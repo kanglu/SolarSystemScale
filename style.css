@@ -1,0 +1,51 @@
+body {
+  font-family: 'PT Serif', "Helvetica", "Arial", "sans-serif";
+  font-size: 14pt;
+  font-style: normal;
+  font-weight: 100;
+  height: 120px;
+  width: 500px;
+}
+
+input {
+  margin-top: 10px;
+  font-size: 12pt;
+}
+
+div {
+  margin-top: 10px;
+  font-size: 12pt;
+}
+
+div.scaleFactors {
+  margin-left: 2em;
+}
+
+form.entry {
+  margin-bottom: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #222;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+td {
+  text-align: right;
+  font-size: 12pt;
+  padding: 5px;
+}
+
+td.title {
+  text-align: center;
+  font-weight: bold;
+}
+
+thead td {
+  text-align: center;
+  font-weight: bold;
+  border: 1px solid #222;
+}
+
