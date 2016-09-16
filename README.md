@@ -4,6 +4,10 @@ My son's class came up with the idea of putting up a scaled version of our solar
 
 I created this simple site to demonstrate how to calculate the actual classroom ceiling distances in meters, given the actual planets' distances from our Sun in astronomical units.
 
+##Demo
+
+Click [here](https://rawgit.com/kanglu/SolarSystemScale/master/index.html)!
+
 ##License
 
 Copyright (c) 2016, Kang Lu
